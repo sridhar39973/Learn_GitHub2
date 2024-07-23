@@ -31,7 +31,7 @@ Click on the "New" button to create a new repository.
 Name your repository and do not initialize it with a README, .gitignore, or license (since you've already initialized a repository locally).
 # Step 9:
 Add the remote origin to your local Git repository:
-git remote add origin <copied GitHub HTTPS URL>
+git remote add origin (copied GitHub HTTPS URL)
 # Step 10:
 Check the current branch:
 git branch
