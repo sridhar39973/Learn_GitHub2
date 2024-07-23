@@ -1,5 +1,5 @@
 ## To push new folder from vs code to github
-#Step 1:
+# Step 1:
 Create a folder and open it in VS Code:
 
 Create a new folder on your local machine.
@@ -8,11 +8,11 @@ Add a dummy file in that folder:
 # Step 2:
 Inside the folder, create a new file (e.g., dummy.txt).
 Initialize an empty Git repository:
-# Step 3:
 git init
+# Step 3:
 Check the status of the Git repository:
-# Step 4:
 git status
+# Step 4:
 The dummy.txt file will be in an untracked status.
 # Step 5:
 Add the dummy file to the staging area:
